@@ -9,6 +9,9 @@ export default defineConfig({
   },
   themeConfig: {
     name: 'react-cached-router',
+    socialLinks: {
+      github: 'https://github.com/jdz321/react-cached-router',
+    },
   },
   base: '/react-cached-router/',
   publicPath: '/react-cached-router/',
