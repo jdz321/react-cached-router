@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_cached_router=self.webpackChunkreact_cached_router||[]).push([[367],{19027:function(c,e,t){t.r(e),t.d(e,{demos:function(){return n}});var _=t(75271),r=t(33891),n={}},25527:function(c,e,t){t.r(e),t.d(e,{texts:function(){return r}});var _=t(33891);const r=[{value:"It's similar to the Outlet component in react-router.",paraId:0,tocIndex:0}]}}]);
